@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+int temp1;
 int main() {
     int temp1, temp2, temp3;
  // Input 1st reading
