@@ -19,7 +19,7 @@ int main() {
     } else if (diff < 10) {
         cout << "Increase the Fryer heat before taking the third reading." << endl;
     }
-
+int temp3;
     // Input 3rd reading
     cout << "Enter the third temperature reading (5 minutes later): ";
     cin >> temp3;
