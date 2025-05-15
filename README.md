@@ -14,7 +14,7 @@ int main() {
     // Check difference between first and second readings
     int diff = temp2 - temp1;
 
-    if (diff > 50) {
+ if (diff > 50) {
         cout << "Reduce fryer heat before taking the third reading." << endl;
     } else if (diff < 10) {
         cout << "Increase the Fryer heat before taking the third reading." << endl;
